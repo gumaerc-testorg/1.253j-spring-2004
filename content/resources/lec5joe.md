@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: dcc61864-0d55-424f-48b7-506b3c8c2356
 resourcetype: Document
 title: lec5joe.pdf
 uid: 12c33863-e805-af02-910c-9c10585acff3
