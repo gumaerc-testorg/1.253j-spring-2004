@@ -6,6 +6,7 @@ file: /courses/1-253j-transportation-policy-and-environmental-limits-spring-2004
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn1.pdf
 uid: cec9564f-84ce-1498-5ee7-f2a926ffbdab
 ---
 Resource containing Assignment 1 on Building the ?Super 7? Expressway in Connecticut.
-
