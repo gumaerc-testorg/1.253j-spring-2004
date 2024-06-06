@@ -3,6 +3,7 @@ content_type: resource
 description: Resource containing Assignment 1 on Building the ?Super 7? Expressway
   in Connecticut.
 file: /courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/cec9564f84ce14985ee7f2a926ffbdab_assn1.pdf
+file_size: 101430
 file_type: application/pdf
 learning_resource_types:
 - Assignments
