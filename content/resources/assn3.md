@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Resource containing Assignment 3 on Low Emission Vehicles: The Pursuit
   of a Regional Program.'
-file: /courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/438bbc2f7766bac1b5abfd6ee1f1edb6_assn3.pdf
+file: /ol-ocw-studio-app/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/438bbc2f7766bac1b5abfd6ee1f1edb6_assn3.pdf
 file_size: 101256
 file_type: application/pdf
 learning_resource_types:
