@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation by Fred Salvucci, one of the course instructors.
-file: /ol-ocw-studio-app/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/2ecee033c6a4baf8f2740bddfa1e5700_lec7fred.pdf
+file: /courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/2ecee033c6a4baf8f2740bddfa1e5700_lec7fred.pdf
 file_size: 54401
 file_type: application/pdf
 learning_resource_types:
