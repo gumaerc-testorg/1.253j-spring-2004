@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Resource containing Assignment 1 Notes.
-file: /courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/ddf3ed0310af8a8a522ed8490da0cfdb_assn1notes.pdf
+file: /ol-ocw-studio-app/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/ddf3ed0310af8a8a522ed8490da0cfdb_assn1notes.pdf
 file_size: 126613
 file_type: application/pdf
 learning_resource_types:
