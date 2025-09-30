@@ -9,14 +9,14 @@ uid: 52d2ea4d-62cf-8adc-f0f8-0e8a7e9146f1
 
 These Web resources provide areas for further study on topics discussed in class:
 
-[The Boston Foundation Indicators Project](https://www.bostonindicators.org/?q&sortBy=date&sortOrder=desc&page=1)
+{{% resource_link "1a3f0f58-ed6c-4810-8254-f4648fd4dfb3" "The Boston Foundation Indicators Project" %}}
 
-[Victoria Transport Institute](http://www.vtpi.org/)
+{{% resource_link "f97be345-b5b6-4904-a8e5-468780ed1df2" "Victoria Transport Institute" %}}
 
-[Corporate Average Fuel Economy](https://www.nhtsa.gov/laws-regulations/corporate-average-fuel-economy)
+{{% resource_link "b81658e9-a953-4cf3-aeeb-a429668dfb61" "Corporate Average Fuel Economy" %}}
 
-[Surface Transportation Policy Project](http://sk.sagepub.com/reference/encyclopedia-of-transportation/n455.xml)
+{{% resource_link "1c88d80c-517f-478f-8b60-5b67f19c0d5d" "Surface Transportation Policy Project" %}}
 
-[FHWA Reauthorization of TEA-21](http://www.fhwa.dot.gov/)
+{{% resource_link "695af6b2-75c5-4216-b32d-ce80c06fc348" "FHWA Reauthorization of TEA-21" %}}
 
-[UK Commission for Integrated Transport](http://webarchive.nationalarchives.gov.uk/20110304132839/http:/cfit.independent.gov.uk/)
+{{% resource_link "5a9f1960-8bf7-4fca-8ddd-9922f635c3e0" "UK Commission for Integrated Transport" %}}
